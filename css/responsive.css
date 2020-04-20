@@ -1,0 +1,1040 @@
+/***** Extra large devices (large desktops, 1200px and up) *****/
+@media (min-width: 1400px) {
+	.container {
+	  max-width: 1300px;
+	}
+
+	.nav-link {
+	  font-size: 20px;
+	}
+
+	.header-logo img {
+	  max-width: 140px;
+	}
+
+	.search_icon svg {
+	  width: 30px;
+	  height: 30px;
+	}
+
+	.second-nav .nav-link svg {
+	  width: 30px;
+	  height: 30px;
+	}
+
+	.header-top-content h1 {
+	  font-size: 60px;
+	  max-width: 710px;
+	}
+
+	.header-bottom ul li span {}
+
+	.header-bottom ul li {
+	  font-size: 19px;
+	}
+
+	.header-bottom ul li span svg {
+	  width: 24px;
+	  height: 24px;
+	}
+
+	.header-bottom ul li {
+	  margin: 3px 0;
+	}
+
+	a.shop-btn {
+	  width: 155px;
+	  height: 43.5px;
+	}
+
+	.header-top-content {
+	  padding-top: 145px;
+	}
+
+	.navbar {
+	  padding: 12px 0;
+	}
+
+	.header-bottom {
+	  padding-bottom: 145px;
+	}
+
+	.header-top-content img {
+	  max-width: 450px;
+	  bottom: -255px;
+	  right: 175px;
+	}
+
+	h2 {
+	  font-size: 38px;
+	}
+
+	p {
+	  font-size: 18px;
+	}
+
+	.plus-sec span:nth-child(2) svg {
+	  width: 28px;
+	  height: 28px;
+	}
+
+	.plus-sec span:nth-child(1) {
+	}
+
+	.about-item {
+	  padding: 21px 25px 20px;
+	  height: 290px;
+	  max-width: 400px;
+	}
+
+	.about-item p {
+	  font-size: 16px;
+	}
+
+	h3 {
+	  font-size: 26px;
+	}
+
+	h6 {
+	  font-size: 18px;
+	}
+
+	h5 {
+	  font-size: 18px;
+	}
+
+	.formula-item p {
+	  font-size: 15px;
+	}
+
+	.formula-item:nth-of-type(1) {
+	  top: -105px;
+	}
+
+	.formula-item:nth-of-type(3) {
+	  bottom: -30px;
+	}
+
+	.formula-bottom-img > img {
+	  max-width: 400px;
+	}
+
+	a.shop-btn span {
+	  font-size: 18px;
+	}
+
+	a.learn-more-btn span {font-size: 18px;}
+
+	a.learn-more-btn {width: 155px;height: 43.5px;}
+
+	h4 {
+	  font-size: 26px;
+	}
+
+	.promise-content h2 {
+	  font-size: 44px;
+	}
+
+	.testimonial-top h3 {
+	  font-size: 26px;
+	}
+
+	.testimonial-top p {
+	  font-size: 18px;
+	}
+
+	.testimonial-img ul li a {
+	  width: 36px;
+	  height: 31.5px;
+	  font-size: 17px;
+	}
+
+	.testimonial-text p {
+	  font-size: 18px;
+	}
+
+	.testimonial-text {
+	  left: 41px;
+	}
+
+	.testimonial-img-3 img {
+	  height: 454.46px;
+	}
+
+	.faq-form h4 {
+	  font-size: 23px;
+	}
+
+	.faq-form form .form-group label {
+	  font-size: 17px;
+	}
+
+	a.send-btn {width: 116px;height: 52px;}
+
+	a.send-btn span {
+	  font-size: 18px;
+	}
+
+	.card-header a span:nth-child(2) {
+	  font-size: 16px;
+	}
+
+	.card-header a span:nth-child(1) {
+	  font-size: 17px;
+	}
+
+	.card-header a span:nth-child(3) {
+	  font-size: 20px;
+	}
+
+	.card-header a span:nth-child(4) {
+	  font-size: 20px;
+	}
+
+	.form-control {
+	  height: 50px;
+	}
+
+	.faq-form form textarea {
+	  height: 145px;
+	}
+
+	.card-body p {
+	  font-size: 16px;
+	}
+
+	.how-to-sec h4 {
+	  font-size: 23px;
+	}
+
+	.how-to-top h2 {
+	  font-size: 35px;
+	}
+
+	.how-to-top p {
+	  font-size: 18px;
+	}
+
+	.how-to-top {
+	  max-width: 700px;
+	}
+
+	.how-to-item img {
+	  max-width: 75px;
+	}
+
+	.how-to-item img {
+	  font-size: 25px;
+	}
+
+	.how-to-bottom-last img {
+	  max-width: 400px;
+	}
+
+	.newsletter-text h1 {
+	  font-size: 50px;
+	}
+
+	.newsletter-text h6 {
+	  font-size: 17px;
+	}
+
+	.newsletter-form form .form-group input {
+	  height: 55px;
+	}
+
+	.footer-logo img {
+	  max-width: 110px;
+	}
+
+	.footer-top-1 p {
+	  font-size: 16px;
+	}
+
+	footer h5 {
+	  font-size: 17px;
+	}
+
+	.footer-top-2 ul li a {
+	  font-size: 16px;
+	}
+
+	.footer-top-3 p {
+	  font-size: 16px;
+	}
+
+	.footer-top-4 span {
+	  font-size: 16px;
+	}
+
+	.footer-top-4 ul li a {
+	  width: 30px;
+	  height: 30px;
+	  font-size: 19px;
+	}
+
+	i.social-first-icon {
+	  margin: 5px 0;
+	}
+
+	.footer-top-4 ul li a:hover i.social-first-icon {
+	  margin-top: -21px;
+	}
+
+	.footer-top-4 ul li:nth-of-type(2) a {
+	  width: 32px;
+	  height: 32px;
+	}
+
+	.footer-top-4 ul li:nth-of-type(2) i.social-first-icon {
+	  margin: 6px 0;
+	}
+
+	.footer-bottom ul li a {
+	  width: 40px;
+	  height: 29px;
+	  font-size: 25px;
+	}
+
+	.footer-bottom ul li a:hover i.card-first-icon {
+	  margin-top: -26px;
+	}
+
+	footer > img:nth-child(1) {
+	  width: 290px;
+	  top: 0;
+	}
+
+	footer > img:nth-child(2) {
+	  width: 290px;
+	  top: 0;
+	}
+
+	.searchbar {
+	  height: 55px;
+	}
+}
+
+
+/***** Large devices (desktops, less than 1200px) *****/
+@media (max-width: 1199.98px) {
+	.container {
+	}
+
+	.navbar .container {}
+
+	.header-top-content {
+	  padding: 135px 30px 0;
+	}
+
+	.header-bottom {
+	  padding: 0 30px 135px;
+	}
+
+	.testimonial-img-3 img {
+	  height: 323.51px;
+	}
+
+	a.video-btn {
+	  padding: 0 5px;
+	}
+
+	a.video-btn svg {
+	  width: 35px;
+	  height: 35px;
+	}
+
+	.testimonial-video {
+	  bottom: 13px;
+	}
+
+	footer {
+	  padding: 0 30px;
+	}
+
+	.modal-dialog {
+	  max-width: 750px;
+	}
+
+	.searchbar:hover > .search_input {
+	  width: 250px;
+	}
+}
+
+
+/***** Medium devices (tablets, less than 992px) *****/
+@media (max-width: 991.98px) {
+	.header-top-content h1 {
+	  font-size: 48px;
+	  max-width: 500px;
+	}
+
+	.header-top-content img {
+	  max-width: 380px;
+	  right: 10px;
+	  bottom: -255px;
+	}
+
+	.header-top-content {
+	  padding: 100px 0 0;
+	}
+
+	.header-bottom {
+	  padding: 0 0 100px;
+	}
+
+	.about-item {
+	  margin: 30px auto;
+	  padding: 21px 25px 20px;
+	  height: 275px;
+	}
+
+	.navbar .container {
+	  padding: 0;
+	}
+
+	.formula-bottom-img > img {
+	  max-width: 315px;
+	}
+
+	.formula-bottom-img {
+	  max-width: 575px;
+	}
+
+	.formula-item-img img {
+	  max-width: 60px;
+	}
+
+	.formula-item h5 {
+	  font-size: 16px;
+	  margin: 7px 0 0;
+	}
+
+	.formula-item p {
+	  margin-top: 2px;
+	}
+
+	.formula-item:nth-of-type(2) {
+	  top: 75px;
+	}
+
+	.formula-item:nth-of-type(5) {
+	  top: 75px;
+	}
+
+	.promise-sec {
+	  padding: 130px 0 75px;
+	}
+
+	.testimonial-text {
+	  max-width: 180px;
+	  left: 15px;
+	}
+
+	.modal-dialog {
+	  max-width: 650px;
+	}
+
+	.faq-form {
+	  max-width: 425px;
+	  margin: 0 auto;
+	}
+
+	.faq-form form {
+	}
+
+	.faq-accordion {
+	  margin: 70px auto 0;
+	  max-width: 450px;
+	}
+
+	.faq-sec {
+	  padding: 75px 0 315px;
+	}
+
+	.how-to-item-text {
+	  margin-left: 20px;
+	}
+
+	.newsletter-text h1 {
+	  font-size: 40px;
+	}
+
+	.formula-item p {
+	  font-size: 13px;
+	}
+
+	.formula-item {
+	  max-width: 200px;
+	}
+
+	.formula-item:nth-of-type(1) {
+	  left: 70px;
+	}
+
+	.formula-item:nth-of-type(2) {
+	  left: 20px;
+	  top: 65px;
+	}
+
+	.formula-item:nth-of-type(3) {
+	  left: 50px;
+	  bottom: -38px;
+	}
+
+	.formula-item:nth-of-type(4) {
+	  right: -20px;
+	}
+
+	.formula-item:nth-of-type(5) {
+	  right: -80px;
+	  top: 65px;
+	}
+
+	.formula-item:nth-of-type(6) {
+	  right: 0;
+	}
+
+	.footer-top-1 {
+	}
+
+	.footer-top-3 {
+	  margin-top: 20px;
+	}
+
+	.footer-top-4 {
+	  margin-top: 20px;
+	}
+
+	.footer-bottom {
+	  padding: 10px 0;
+	}
+
+	.empty-col {
+	  display: none;
+	}
+
+	.footer-bottom p {
+	  font-size: 15px;
+	}
+
+	footer > img:nth-child(1) {
+	  max-width: 200px;
+	  top: 50%;
+	  transform: translateY(-50%);
+	}
+
+	footer > img:nth-child(2) {
+	  max-width: 200px;
+	  top: 50%;
+	  transform: rotateY(-180deg) translateY(-50%);
+	}
+
+	.searchbar:hover > .search_input {
+	  width: 155px;
+	}
+	
+	.navbar .container {
+	}
+}
+
+
+/***** Small devices (landscape phones, less than 768px) *****/
+@media (max-width: 767.98px) {
+	img.banner-bg {
+	  display: none;
+	}
+
+	.navbar-toggler span {
+	  display: block;
+	  width: 35px;
+	  height: 2px;
+	  margin: 8px auto;
+	  background: #3a251c;
+	}
+
+	.navbar-toggler {
+	  padding: 0;
+	  margin: 0;
+	  width: 50px;
+	}
+
+	.navbar-toggler:focus {
+	  outline: 1.5px solid #3a251c;
+	}
+
+	.button-wrap {
+	  width: 100%;
+	  text-align: right;
+	}
+
+	.navbar {
+	  text-align: right;
+	}
+
+	.header-logo {
+	  display: none;
+	}
+
+	.second-nav {
+	  align-items: flex-end;
+	}
+
+	.searchbar:hover {
+	  background: #212529;
+	}
+
+	.searchbar:hover .search_icon svg {
+	  fill: #ffffff;
+	}
+
+	.search_icon svg {
+	  width: 25px;
+	  height: 25px;
+	}
+
+	.searchbar:hover > .search_input {
+	  width: 225px;
+	}
+
+	input.search_input {}
+
+	.searchbar {
+	}
+
+	input.search_input::placeholder {
+	  color: rgba(255, 255, 255, 0.75);
+	  font-size: 16px;
+	}
+
+	.searchbar:hover > .search_input {
+	  caret-color: #fff;
+	  color: #fff;
+	}
+
+	.navbar {
+	  padding: 12px 0;
+	}
+
+	.header-top-content h1 {
+	  font-size: 45px;
+	}
+
+	.header-top-content {
+	  padding: 50.77px 0 100px;
+	}
+
+	.header-bottom {
+	  padding: 100px 0 100px;
+	}
+
+	.header-top-content img {
+	  max-width: 325px;
+	  bottom: -125px;
+	  right: 0;
+	}
+
+	.header-bottom ul {
+	  margin-top: 0;
+	}
+
+	.about-sec {
+	  padding: 80px 0 130px;
+	}
+
+	.formula-bottom-img {
+	  max-width: 435px;
+	}
+
+	.formula-bottom-img > img {
+	  max-width: 285px;
+	}
+
+	.formula-item-img img {
+	  max-width: 55px;
+	}
+
+	.formula-item h5 {
+	  font-size: 15px;
+	}
+
+	.formula-item p {
+	}
+
+	.formula-item {max-width: 150px;padding: 0 5px;}
+
+	.formula-item:nth-of-type(5) {right: -65px;top: 50px;}
+
+	.formula-item:nth-of-type(3) {
+	  left: 10px;
+	}
+
+	.formula-item:nth-of-type(1) {
+	  left: 35px;
+	}
+
+	.formula-item:nth-of-type(2) {
+	  top: 50px;
+	  left: -15px;
+	}
+
+	.promise-sec {
+	  padding: 120px 0 75px;
+	}
+
+	.testimonial-img-3 img {
+	  height: 368.73px;
+	}
+
+	.testimonial-item {
+	  margin-bottom: 40px;
+	}
+
+	.testimonial-sec {
+	  padding: 70px 0 30px;
+	}
+
+	.faq-form {
+	  max-width: 400px;
+	}
+
+	.faq-accordion {
+	  max-width: 425px;
+	  height: 566px;
+	}
+
+	.faq-sec {
+	padding: 75px 0 200px;
+	}
+
+	.how-to-item-text {
+	  margin-left: 0;
+	}
+
+	.how-to-bottom-last img {
+	  max-width: 350px;
+	}
+
+	.how-to-sec {
+	  padding-bottom: 50px;
+	}
+
+	.faq-top h2 {
+	  font-size: 32px;
+	}
+
+	.newsletter-form form .form-group input {
+	}
+
+	.newsletter-form form .form-group {
+	  max-width: 375px;
+	}
+
+	.newsletter-text h6 {
+	  margin: 10px 0 20px;
+	}
+
+	.newsletter-sec {
+	  margin-bottom: 70px;
+	}
+
+	.footer-top-3 {
+	  margin-top: 0;
+	}
+
+	.footer-top-4 h5 {
+	  margin-bottom: 4px;
+	}
+
+	.footer-bottom p {
+	  margin-bottom: 5px;
+	}
+
+	.footer-bottom ul li a {
+	  width: 26.75px;
+	}
+
+	.modal-dialog {
+	  margin: 30px 25px;
+	}
+
+	.close span {
+	  width: 26px;
+	  height: 35px;
+	  top: 0;
+	  left: 0;
+	  text-align: center;
+	  line-height: 23px;
+	}
+
+	button.close {
+	}
+
+	.footer-top-4 {
+	}
+
+	.footer-top-sec {
+	  margin-bottom: 10px;
+	}
+
+	.testimonial-img-3 {
+	  height: 369.73px;
+	}
+
+	.testimonial-img-3 img {
+	  height: 100%;
+	}
+
+	.formula-item h5 {
+	  margin-bottom: 5px;
+	}
+}
+
+
+/***** Extra small devices (portrait phones, less than 576px) *****/
+@media (max-width: 575.98px) {
+	.header-top-content h1 {
+	  font-size: 40px;
+	}
+
+	.header-top-content img {
+	  max-width: 300px;
+	  left: -25px;
+	  bottom: -165px;
+	}
+
+	.header-top-content {
+	  padding: 35.67px 0 155px;
+	}
+
+	.header-bottom {
+	  padding: 155px 0 90px;
+	}
+
+	.container {
+	  padding: 0 20px;
+	}
+
+	.navbar {
+	  /* padding: 10px 0; */
+	}
+
+	.navbar .container {
+	  padding: 0 20px;
+	}
+
+	.about-item {
+	  margin: 25px auto;
+	}
+
+	.formula-item {
+	  position: initial;
+	  flex-basis: 50%;
+	  max-width: 50%;
+	  margin: 17px 0;
+	}
+
+	.formula-bottom-img {
+	  display: flex;
+	  flex-wrap: wrap;
+	}
+
+	.formula-item {}
+
+	.formula-top {
+	  margin-bottom: 45px;
+	}
+
+	.formula-bottom-img > img {
+		margin: 0 auto 30px;
+	}
+
+	.formula-sec {
+	  padding: 20px 0 5px;
+	}
+
+	.promise-content h4 {
+	  font-size: 21px;
+	}
+
+	.promise-content h2 {
+	  font-size: 32px;
+	}
+
+	.testimonial-img {
+	  max-width: 250px;
+	  margin: 0 auto;
+	}
+
+	.testimonial-top h3 {
+	  font-size: 22px;
+	}
+
+	.testimonial-top h2 {
+	  font-size: 32px;
+	}
+
+	.testimonial-img-3 {
+		height: 385.13px;
+	}
+
+	.testimonial-item {
+	  max-width: 250px;
+	  margin: 0 auto 40px;
+	}
+
+	.testimonial-title {
+		margin-top: 10px;
+	}
+
+	.testimonial-title h4 {
+	  font-size: 19px;
+	}
+
+	.faq-form {
+	  max-width: 350px;
+	}
+
+	.faq-accordion {
+	  max-width: 350px;
+	  height: 588px;
+	}
+
+	.faq-accordion {
+	}
+
+	.how-to-item img {
+	  max-width: 65px;
+	}
+
+	.how-to-sec h4 {
+	}
+
+	.how-to-sec {
+	  padding-bottom: 40px;
+	}
+
+	.newsletter-sec {
+	  margin-bottom: 50px;
+	}
+
+	.about-item {
+	  max-width: 350px;
+	  height: auto;
+	}
+
+	.testimonial-text {
+	  max-width: 225px;
+	  left: 12.5px;
+	}
+
+	.formula-item:nth-of-type(5) {
+	  margin-top: 0;
+	}
+
+	.formula-item:nth-of-type(6) {
+	  margin-top: 0;
+	}
+
+	footer h5 {
+	  margin-bottom: 0;
+	}
+
+	.footer-top-2 ul li a {
+	  margin: 0;
+	}
+
+	.footer-top-2 {
+	  margin-bottom: 15px;
+	}
+
+	.footer-top-4 {
+	  margin-top: 0;
+	}
+
+	.footer-top-4 h5 {
+	  margin-bottom: 0;
+	}
+
+	footer {
+	  padding: 0;
+	}
+
+	.footer-top-1 p {
+	  max-width: 395px;
+	}
+
+	.footer-top-4 span {
+	  display: block;
+	}
+}
+
+
+/***** Large mobile phones (up to 425px) *****/
+@media (max-width: 425px) {
+.modal-dialog {
+  margin: 30px 5px;
+}
+
+button.close {
+  display: none;
+}
+
+.modal.show .modal-dialog {
+}
+
+.modal-content {
+}
+
+.modal-body {}
+
+.how-to-bottom-last img {max-width: 100%;}
+
+.formula-bottom-img > img {
+}
+
+.about-sec {
+  padding: 80px 0 115px;
+}
+
+.about-item h3 {
+  font-size: 22px;
+}
+
+.how-to-item-text {
+  margin-left: 10px;
+}
+
+footer > img {
+  display: none;
+}
+
+.newsletter-text h1 {
+  font-size: 35px;
+}
+
+.footer-logo img {
+  max-width: 90px;
+}
+
+a.paper-plane svg {
+  width: 35px;
+  height: 35px;
+}
+}
+
+
+/***** Medium mobile phones (up to 375px) *****/
+@media (max-width: 375px) {
+.card-header a {
+  padding: 17px 15px 17px 0;
+}	
+}
+
+
+/***** Small mobile phones (up to 320px) *****/
+@media (max-width: 320px) {
+.faq-accordion {
+  height: auto;
+}	
+}
